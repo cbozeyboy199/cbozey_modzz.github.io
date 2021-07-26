@@ -3,7 +3,14 @@ made by christopher bozeman
 
 <a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
 
+<a href="https://web.roblox.com/users/15239074939/profile" target="_blank">my roblox profile</a> 
+
+<a href="www.instagram.com/cbozey_boy19/" target="_blank"> my instagram </a> 
+
+
 tutorials:
+
+
 
 
 
