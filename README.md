@@ -1,7 +1,7 @@
-[!stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
+[stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
 ## welcome to cbozeys android and ios but mostly android hack center made 
 made by christopher bozeman
-email me for help 
+email me for help:
 <cbozeman5444@gmail.com>
 
 
@@ -23,20 +23,27 @@ tutorials:
 
 
 roblox mod show case spdm:
+
 <a href="https://www.youtube.com/watch?v=WceOnbJU9DU&t=256s" target="_blank">cbozey spdm mod show case</a>
 
 
 roblox glitch:
+
 <a href="https://www.youtube.com/watch?v=G8S3OS_TAJE&t=36s" target="_blank">kahoot bot flood by cbozey</a>
 
 school cheats mods by cbozey :
+
 <a href="https://replit.com/@Cbozeyboy19/kahoot-bot-by-cbozey-this-is-not-from-discord-stop-saying#index.js" target="_blank">kahoot bot flood by cbozey</a>
 
 <a href="https://replit.com/@Cbozeyboy19/quizlet-hack-update#main.py" target="_blank">quizlet hack javascript console only by cbozey</a>
 
 <a href="https://replit.com/@Cbozeyboy19/kahoot-bot-by-cbozey-this-is-not-from-discord-stop-saying#index.js" target="_blank">kahoot hack for mobile by cbozey</a>
 
+## mod links and executor downloads
 
+<a href="spdmteam.com" target="_blank">spdm mod menu</a>
+
+<a href="https://www.happymod.com" target="_blank">happymod mod menus download</a>
 
 ## requirements for all mods
 1. your phone laptop or tablet must have root or most things wont work
