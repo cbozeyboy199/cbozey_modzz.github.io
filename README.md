@@ -1,6 +1,7 @@
 ## welcome to cbozeys android and ios but mostly android hack center made 
 made by christopher bozeman
-. <a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
+
+<a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
 
 tutorials:
 
