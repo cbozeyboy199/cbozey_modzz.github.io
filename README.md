@@ -1,6 +1,6 @@
-**welcome to cbozeys android and ios but mostly android hack center.:**
+## welcome to cbozeys android and ios but mostly android hack center
+. <a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
 
-**use at ur own risk:**  <a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
 tutorials:
 
 
@@ -19,6 +19,22 @@ school cheats mods by cbozey :
 <a href="https://replit.com/@Cbozeyboy19/quizlet-hack-update#main.py" target="_blank">quizlet hack javascript console only by cbozey</a>
 
 <a href="https://replit.com/@Cbozeyboy19/kahoot-bot-by-cbozey-this-is-not-from-discord-stop-saying#index.js" target="_blank">kahoot hack for mobile by cbozey</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## requirements for all mods
 1. your phone laptop or tablet must have root or most things wont work
