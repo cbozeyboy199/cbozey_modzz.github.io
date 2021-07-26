@@ -1,4 +1,5 @@
-## welcome to cbozeys android and ios but mostly android hack center
+## welcome to cbozeys android and ios but mostly android hack center made 
+made by christopher bozeman
 . <a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">wanna subscribe???</a>
 
 tutorials:
@@ -22,20 +23,6 @@ school cheats mods by cbozey :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## requirements for all mods
 1. your phone laptop or tablet must have root or most things wont work
 2. dont share your info with any links i give you some of them contane stuff when people mess with my links
@@ -48,7 +35,7 @@ school cheats mods by cbozey :
 3. spdm
 4. krnl **krnl is rare and hard to get for mobile:** 
 
-## best pc executors 
+## best pc executors for roblox 
 1. krnl
 2. synapse
 3. omega x
