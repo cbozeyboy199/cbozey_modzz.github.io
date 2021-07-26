@@ -1,17 +1,9 @@
 ## welcome to cbozeys android and ios but mostly android hack center made 
 made by christopher bozeman
-
-<a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">my youtube</a>
-
-<a href="https://web.roblox.com/users/1523907439/profile" target="_blank">my roblox profile</a> 
-
-<a href="www.instagram.com/cbozey_boy19/" target="_blank"> my instagram </a> 
+email me for help <cbozeman5444@gmail.com>
 
 
 tutorials:
-
-
-
 
 
 roblox mods media fire download:
@@ -49,3 +41,9 @@ school cheats mods by cbozey :
 3. omega x
 4. jj sploit
 5. spdm pc edition
+
+<a href="https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w">my youtube</a>
+
+<a href="https://web.roblox.com/users/1523907439/profile" target="_blank">my roblox profile</a> 
+
+<a href="www.instagram.com/cbozey_boy19/" target="_blank"> my instagram </a> 
