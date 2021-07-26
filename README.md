@@ -31,3 +31,10 @@ school cheats mods by cbozey :
 2. acreus x 
 3. spdm
 4. krnl **krnl is rare and hard to get for mobile:** 
+
+## best pc executors 
+1. krnl
+2. synapse
+3. omega x
+4. jj sploit
+5. spdm pc edition
