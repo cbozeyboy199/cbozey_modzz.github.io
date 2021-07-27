@@ -30,7 +30,7 @@ roblox mod show case spdm:
 
 roblox glitch:
 
-<a href="https://www.youtube.com/watch?v=G8S3OS_TAJE&t=36s" target="_blank">kahoot bot flood by cbozey</a>
+<a href="https://www.youtube.com/watch?v=G8S3OS_TAJE&t=36s" target="_blank">tower of hell mega jump glitch</a>
 
 school cheats mods by cbozey :
 
