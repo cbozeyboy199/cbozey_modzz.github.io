@@ -1,5 +1,5 @@
 [stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
-## welcome to cbozeys android and ios but mostly android hack center made             <a href="https://cbozeyboy199-more-info.github.io/">more info</a>      
+## welcome to cbozeys android and ios but mostly android hack center made             <a href="cheese">more info</a>      
 made by christopher bozeman
 email me for help:
 <cbozeman5444@gmail.com>
