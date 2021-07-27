@@ -1,13 +1,12 @@
 [stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
-## welcome to cbozeys android and ios but mostly android hack center made 
+## welcome to cbozeys android and ios but mostly android hack center made <a href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">more info</a> 
 made by christopher bozeman
 email me for help:
 <cbozeman5444@gmail.com>
 
 
 tutorials:
-
-<a href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">how to download roblox mods</a>                                                               
+                                                                  
 
 <a href=" https://www.youtube.com/watch?v=CnnCS_S2o8s&t=11s" target="_blank">roblox chat bypass mobile</a>
 
