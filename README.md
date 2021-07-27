@@ -1,12 +1,14 @@
 [stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
-## welcome to cbozeys android and ios but mostly android hack center made <a href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">more info</a> 
+## welcome to cbozeys android and ios but mostly android hack center made             <a href="https://cbozeyboy199-more-info.github.io/">more info</a>      
 made by christopher bozeman
 email me for help:
 <cbozeman5444@gmail.com>
 
 
+
 tutorials:
-                                                                  
+
+<a href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">how to download roblox mods</a>                                                               
 
 <a href=" https://www.youtube.com/watch?v=CnnCS_S2o8s&t=11s" target="_blank">roblox chat bypass mobile</a>
 
@@ -47,7 +49,7 @@ school cheats mods by cbozey :
 ## requirements for all mods
 1. your phone laptop or tablet must have root or most things wont work
 2. dont share your info with any links i give you some of them contane stuff when people mess with my links
-3. have  fun and dont use my mods or script for evil stuff 
+3. have  fun and dont use my mods or scripts for evil stuff 
 4. dont get the mods reported because i will have to update them and update my website
 
 ## recomended executors for roblox on mobile
