@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>https://lh3.googleusercontent.com/ogw/ADea4I5lKXFIc4feigo9DasIu1nYqsgyFE9a98TFXuClHw=s83-c-mo</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
-
-</body>
-</html>
-<html>
-<body>
 
 
 
-<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>
- 
+<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>   
+
+
+
 </body>
 </html>
 
@@ -25,8 +16,8 @@
 	</b></a>
 
 <button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
-		<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">
-	
+<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
+<button onClick="window.location.reload();">fix search button</button>
 <div id="iframe">
 	
 	</div>
