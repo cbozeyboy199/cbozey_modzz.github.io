@@ -11,7 +11,7 @@
 <button type="button" onclick="alert('search is not working right now sorry')">search</button> 
 
 	
-<form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">roblox mods</button>
+<form method="get" action="cbozeyboy199.github.io/chat/"> <button type="submit">roblox mods</button>
 
 	
 
