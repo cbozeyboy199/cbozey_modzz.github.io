@@ -15,11 +15,8 @@
 <input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
 <button onClick="window.location.reload();">fix search button</button>
 
-<form> <form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">chat</button>
-</form>
-<div id="iframe">
-	
-	</div>
+<form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">chat</button>
+<
 
 [stay updated by subscribing to my youtube!](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
 ## welcome to cbozeys android and ios but mostly android hack center made             <a href="cheese">more info</a>      
