@@ -1,3 +1,18 @@
+<body>
+<a href="https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg/related?hl=en" target=blank><b>You must have this chrome extens
+	</b></a>
+
+	<div class="input-group">
+      <span class="input-group-btn">
+        <button class="btn btn-primary" id='go' type="button" onclick="makeFrame()" >Go!</button>
+      </span>
+		<input class="form-control" id="siteEntry" placeholder="https://www." data-toggle="tooltip">
+	</div>
+	
+	<div id="iframe">
+	
+	</div>
+</body>
 [stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
 ## welcome to cbozeys android and ios but mostly android hack center made             <a href="cheese">more info</a>      
 made by christopher bozeman
