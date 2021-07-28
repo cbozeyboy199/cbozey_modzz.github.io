@@ -72,7 +72,6 @@ school cheats mods by cbozey :
 
 <a href="https://sites.google.com/site/unblockedgameswtf/uno?overridemobile=true" target="_blank">unblocked games 1</a>
 
-
 <a href="https://scratch.mit.edu/studios/3913302" target="_blank">unblocked gmaes 2</a>
 
 <a href="https://sites.google.com/view/unblocked-games-world/" target="_blank">unblocked games 3</a>
@@ -80,3 +79,12 @@ school cheats mods by cbozey :
 <a href="https://sites.google.com/site/bestunblockedgames77/" target="_blank">unblocked games 4</a>
 
 <a href="https://mobile.sites.google.com/site/unblockedgames77/protect-io" target="_blank">unblocked games 5</a>
+
+
+### what i use to make mods and script 
+
+<a href="https://replit.com/login?goto=%2F~" target="_blank">where i made the kahoot script</a>
+
+<a href="chrome-untrusted://crosh/" target="_blank">crosh for html unblocker</a>
+
+<a href="https://codepen.io/JackGriebel/pen/MGEWdm" target="_blank">html unblocker</a>
