@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h1>The button Element</h1>
+<h1></h1>
 
-<button type="button" onclick="alert('what do you need help with?')">help</button>
+<button type="button" onclick=<a href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">help</button>
  
 </body>
 </html>
