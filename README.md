@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The button Element</h1>
+
+<button type="button" onclick="alert('what do you need help with?')">help</button>
+ 
+</body>
+</html>
+
+
+
 
 <a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search and more
 	</b></a>
