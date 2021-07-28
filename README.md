@@ -1,20 +1,18 @@
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  This is an alert box.
-</div>
-<body>
+<span class="input-group-btn">
+        <button class="btn btn-primary" id='enter the deep end button' type="button" onclick="makeFrame()" >enter the deep end button</button>
+      </span>
 
-	<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search
+<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search
 	</b></a>
 
-	<div class="input-group">
+<div class="input-group">
       <span class="input-group-btn">
         <button class="btn btn-primary" id='go' type="button" onclick="makeFrame()" >Go!</button>
       </span>
 		<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">
 	</div>
 	
-	<div id="iframe">
+<div id="iframe">
 	
 	</div>
 </body>
