@@ -1,12 +1,14 @@
+
 <html>
 <body>
 
-<h1></h1>
 
-<button type="button" onclick= <href="https://www.youtube.com/watch?v=_q0-zUsY4lk&t=5s" target="_blank">help</button>
+
+<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>
  
 </body>
 </html>
+
 
 
 
