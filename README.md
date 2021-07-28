@@ -18,7 +18,6 @@
 
 <button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
 		<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">
-	</div>
 	
 <div id="iframe">
 	
