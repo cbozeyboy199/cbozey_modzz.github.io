@@ -3,7 +3,7 @@
 
 <input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
 
-<form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">chat</button>
+<form method="get" action="cbozeyboy199.github.io/chat/"> <button type="submit">chat</button>
 
 
 <button onClick="window.location.reload();">fix search button</button>  
