@@ -13,7 +13,7 @@
 <button onClick="window.location.reload();">fix search button</button>
 
 <form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">chat</button>
-<
+
 
 [stay updated by subscribing to my youtube!](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
 ## welcome to cbozeys android and ios but mostly android hack center made             <a href="cheese">more info</a>      
