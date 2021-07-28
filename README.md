@@ -1,9 +1,12 @@
-## welcome to cbozeys mod website select what you want 
-<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>  
-
-<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    <button type="button" onclick="alert('search is not working right now sorry')">search</button>
-<a href='cbozeyboy199.github.io/chat/'><button>chat</button></a>
-
+## cbozey_boy19 mods and more 
+bypass google search 
+<body>
+<a href="https://cbozeyboy199.github.io/chat/" target=blank><b>if you need hlep visit our chat</b></a>
+<div class="input-group">
+   <span class="input-group-btn">
+        <button class="btn btn-primary" id='go' type="button" onclick="makeFrame()" >Go!</button>
+      </span>
+		<input class="form-control" id="siteEntry" placeholder="https://www." data-toggle="tooltip">
 
 	
 
