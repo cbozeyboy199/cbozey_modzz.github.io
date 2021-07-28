@@ -1,6 +1,3 @@
-
-
-
 <button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>  
 
 
