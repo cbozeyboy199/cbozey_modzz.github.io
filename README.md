@@ -1,12 +1,7 @@
 
 
 
-<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>   
-
-
-
-</body>
-</html>
+<button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>  
 
 
 
@@ -18,6 +13,7 @@
 <button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
 <input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
 <button onClick="window.location.reload();">fix search button</button>
+<button onclick="window.location.href='www.youtube.com'">chat</button>
 <div id="iframe">
 	
 	</div>
