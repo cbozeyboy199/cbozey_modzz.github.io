@@ -6,7 +6,7 @@
       <span class="input-group-btn">
         <button class="btn btn-primary" id='go' type="button" onclick="makeFrame()" >Go!</button>
       </span>
-		<input class="form-control" id="siteEntry" placeholder="enter any url it will be unblocked." data-toggle="tooltip">
+		<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">
 	</div>
 	
 	<div id="iframe">
