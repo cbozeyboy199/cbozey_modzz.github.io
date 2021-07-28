@@ -1,5 +1,10 @@
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  This is an alert box.
+</div>
 <body>
-<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search
+
+	<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search
 	</b></a>
 
 	<div class="input-group">
