@@ -10,8 +10,8 @@
 <button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
 <input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
 <button onClick="window.location.reload();">fix search button</button>
-<button onclick="window.location.href='cbozeyboy199.github.io/chat/'">chat</button>
-<div id="iframe">
+<button onclick="window.location.href='cbozeyboy199.github.io/chat/'">chat</button> <button type="button" onclick="alert('copy this link and youre in the chat cbozeyboy199.githud.io/chat/')">fix chat</button>  
+
 	
 	</div>
 
