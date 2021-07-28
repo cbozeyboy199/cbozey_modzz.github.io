@@ -1,5 +1,5 @@
 <body>
-<a href="https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg/related?hl=en" target=blank><b>You must have this chrome extens
+<a href="https://chrome.google.com/webstore/detail/iframe-allow/gifgpciglhhpmeefjdmlpboipkibhbjg/related?hl=en" target=blank><b>christopher boxemans unblocked google search
 	</b></a>
 
 	<div class="input-group">
