@@ -16,10 +16,7 @@
 <a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search and more
 	</b></a>
 
-<div class="input-group">
-      <span class="input-group-btn">
-        <button class="btn btn-primary" id='go' type="button" onclick="makeFrame()" >Go!</button>
-      </span>
+<button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
 		<input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">
 	</div>
 	
