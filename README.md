@@ -9,9 +9,13 @@
 
 <a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search and more
 	</b></a>
+
 <button type="button" onclick="alert('hmmm seems like search is not working right now')">search</button>
+
 <input class="form-control" id="siteEntry" placeholder="enter any url ." data-toggle="tooltip">    
-<button onClick="window.location.reload();">fix search button</button>
+<
+button onClick="window.location.reload();">fix search button</button>
+
 <form> <form method="get" action="cbozeyboy199.github.io/chat"> <button type="submit">chat</button>
 </form>
 <div id="iframe">
