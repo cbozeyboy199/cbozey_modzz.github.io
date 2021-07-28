@@ -85,6 +85,6 @@ school cheats mods by cbozey :
 
 <a href="https://replit.com/login?goto=%2F~" target="_blank">where i made the kahoot script</a>
 
-<a href="chrome-untrusted://crosh/" target="_blank">crosh for html unblocker</a>
+<a href="chrome-untrusted://crosh/" target="_blank">crosh for html unblocker</a> crosh may come up as unlisted so if you're on pc hold ctrl alt and push t 
 
 <a href="https://codepen.io/JackGriebel/pen/MGEWdm" target="_blank">html unblocker</a>
