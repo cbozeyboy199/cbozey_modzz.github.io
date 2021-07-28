@@ -1,8 +1,5 @@
-<span class="input-group-btn">
-        <button class="btn btn-primary" id='enter the deep end button' type="button" onclick="makeFrame()" >enter the deep end button</button>
-      </span>
 
-<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search
+<a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search and more
 	</b></a>
 
 <div class="input-group">
@@ -15,7 +12,7 @@
 <div id="iframe">
 	
 	</div>
-</body>
+
 [stay updated by subscribing to my youtube](https://www.youtube.com/channel/UCWL38m3cZ072VuWbmI4Aw_w/videos)
 ## welcome to cbozeys android and ios but mostly android hack center made             <a href="cheese">more info</a>      
 made by christopher bozeman
