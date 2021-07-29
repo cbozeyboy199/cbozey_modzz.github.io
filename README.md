@@ -1,7 +1,7 @@
 <button type="button" onclick="alert('you are at christopher bozemans aka cbozey_boy19 cheat hub this is where i post the cheats i made and post unblocked websites and my unblocked google search mod')">where am i?</button>  
 
 [admin control center DO NOT PRESS IF YOURE NOT RANK ADMIN](https://cbozeyboy199.github.io/admins-only/)
-[DONT CLICK ME ](https://cbozeyboy199.github.io/admin-log-in/)
+[DONT CLICK ME! ](https://cbozeyboy199.github.io/admin-log-in/)
 
 <a href="https://cbozeyboy199.github.io/" target=blank><b>christopher bozemans unblocked google search and more
 	</b></a>
